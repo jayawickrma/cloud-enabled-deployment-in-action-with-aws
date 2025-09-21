@@ -1,5 +1,13 @@
 # Cloud Enabled Deployment In Action with AWS
 
+## ✨ Created By  
+
+👤 **Name** : Nishan Tharaka  
+🆔 **Student ID** : 2301671129  
+📧 **Email** : nishantharaka2004@gmail.com  
+
+---
+
 This repository contains four projects:
 
 - course-service (Spring Boot + MySQL)
